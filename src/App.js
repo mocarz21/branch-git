@@ -15,6 +15,7 @@ function App() {
         >
           Learn React
         </a>
+        <h1>Come on</h1>
       </header>
     </div>
   );
