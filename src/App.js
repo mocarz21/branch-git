@@ -16,6 +16,8 @@ function App() {
           Learn React
         </a>
       </header>
+      <body className ="sBody">
+      </body>
     </div>
   );
 }
