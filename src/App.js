@@ -4,9 +4,15 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+
+        <title>New skills</title>
+        <h1>dodanie naglowka</h1>
+        <h2>sadasdas</h2>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hej hej heloo
+
         </p>
+
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -16,7 +22,10 @@ function App() {
           Learn React
         </a>
         <h1>Come on</h1>
+
       </header>
+      <body className ="sBody">
+      </body>
     </div>
   );
 }
